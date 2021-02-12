@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "apexcharts": "^3.24.0",
-    "electron": "^6.0.12",
+    "electron": "^9.4.0",
     "find-remove": "^2.0.1",
     "gbxml-viewer-basic": "^0.5.2",
     "papaparse": "^5.1.0"
